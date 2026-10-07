@@ -4,7 +4,10 @@
 [任意门](https://github.com/zhaoyuxiangyyds-lab/AnyDoor)：也是校园跑，但轨迹有点像区  
 [Locus](https://github.com/Bellaboy/locus-ZH)：ios的校园跑可能实现方案（用不上没测试）  
 学习通：屏蔽检测等，[starx项目](https://github.com/Mai-xiyu/StarX)或[酷安](https://www.coolapk.com/feed/69635892?s=YWU4NmQwMDUyNDQ1NWJiZzZhYmU5ZGZkegi157)这项目  
-[course_helper](https://github.com/AneryCoft/course_helper)：学习通拍照签到可以定制照片应对不在场拍照上传，特殊情况有用。  
+[course_helper](https://github.com/AneryCoft/course_helper)：学习通拍照签到可以定制照片应对不在场拍照上传，特殊情况有用。
+
+校园网网速增强：路由器刷个openwrt使用单线多拨，有点麻烦。
+
 洗衣机：天机  
 xxxxxxxx（机密）
 
