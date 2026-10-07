@@ -20,7 +20,6 @@ instagram RyukGrama插件版：可以下载照片等
 [gkd](https://github.com/gkd-kit/gkd)：利用无障碍跳广告神器  
 legago阅读：搭配书源可以说是神  
 MT管理器：无需多言  
-[TabletHook](https://github.com/roro2239/TabletHook)：通过lsposed作用域对微信或qq伪装平板机型实现同时登录
 
 ### 针对我的红米note12
 os：骁龙4gen1没吃上临时root红利，而现在终于有人可以从澎湃2.0.6中拯救他了  
