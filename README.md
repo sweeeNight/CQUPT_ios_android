@@ -6,18 +6,20 @@
 
 [Locus](https://github.com/Bellaboy/locus-ZH)：ios的校园跑可能实现方案（用不上没测试）
 
+当然了，run的话以上都挺一般，还是发包比较解放双手
+
 学习通：屏蔽检测等，[starx项目](https://github.com/Mai-xiyu/StarX)或[酷安](https://www.coolapk.com/feed/69635892?s=YWU4NmQwMDUyNDQ1NWJiZzZhYmU5ZGZkegi157)这项目
 
 [course_helper](https://github.com/AneryCoft/course_helper)：学习通拍照签到可以定制照片应对不在场拍照上传，特殊情况有用
 
 校园网网速增强：路由器可以刷个openwrt使用单线多拨，有点麻烦。
 
-洗衣机：天机 
-
-xxxxxxxx（机密）
+洗衣机：模拟发包即可
 
 # ios
-[livecontainer](https://github.com/LiveContainer/LiveContainer)：安装ipa
+[livecontainer](https://github.com/LiveContainer/LiveContainer)：安装ipa，可惜还是7天
+
+lcsign：闲鱼等买个证书，自己安装想要的ipa，什么7天，听不懂
 
 [quanmultx](https://apps.apple.com/us/app/quantumult-x/id1443988620?utm_source=chatgpt.com)：单看好像和小火箭差不多，那加上墨鱼呢
 
@@ -26,6 +28,8 @@ xxxxxxxx（机密）
 instagram RyukGrama插件版：可以下载照片等  
 
 [Blackmagic Cam](https://apps.apple.com/cn/app/blackmagic-camera/id6449580241?utm_source=chatgpt.com)：拍视频的，发挥一下iphone舒适区，视频领域对比安卓依旧是神
+
+抖音插件版，哔哩哔哩插件版，telegram插件版...原来有证书的iphone是这样
 
 # 安卓
 ### 通用
